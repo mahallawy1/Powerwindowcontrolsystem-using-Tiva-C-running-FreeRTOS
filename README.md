@@ -4,7 +4,7 @@ Project scope
 
 1. Implementation of front passenger door window with both passenger and driver control
 panels.
-2. FreeRTOS implementation is a must.
+2. FreeRTOS implementation .
 3. Implementation of 2 limit switches to limit the window motor from top and bottom limits of
 the window.
 4. Obstacle detection implementation is required, no need for current stall sensor, just use a
